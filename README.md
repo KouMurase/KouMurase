@@ -2,6 +2,7 @@
 
 趣味　：　映画鑑賞，ランニング  
 興味　：　機械学習，Deep Learning，XAI  
+![This is an image](https://github.com/KoMurase/KoMurase/blob/main/image.jpg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KoMurase&count_private=true&show_icons=true" />
