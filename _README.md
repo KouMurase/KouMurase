@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 - 💻 **Software Engineer** specializing in machine learning.
 - 🌟 Interested in AI and data science.
-- 📫 I can be reached at: [mkou819@gmail.com].
+- 📫 I can be reached at: [mkou819[at]gmail.com].
 
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
